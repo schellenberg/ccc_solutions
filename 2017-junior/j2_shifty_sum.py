@@ -1,4 +1,4 @@
-#shifty sum
+#j2 - shifty sum (2017)
 original_number = int(input())
 number_of_shifts = int(input())
 

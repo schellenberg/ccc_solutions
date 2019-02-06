@@ -1,4 +1,4 @@
-# favourite times
+# j4 - favourite times (2017)
 
 def add_minute(time):
     separator = time.find(':')

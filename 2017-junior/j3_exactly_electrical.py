@@ -1,4 +1,4 @@
-#exactly electrical
+#j3 - exactly electrical (2017)
 
 coord = input()
 coord_list = coord.split()
